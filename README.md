@@ -1,4 +1,4 @@
-# MelodAI Auto Bot - AirdropInsiders
+# MelodAI Auto Bot
 
 This script automates tasks and mining pool claims on the MelodAI platform using multiple accounts and optional proxy support.
 
